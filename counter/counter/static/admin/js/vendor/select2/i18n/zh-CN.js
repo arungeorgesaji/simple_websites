@@ -1,3 +1,3 @@
-/*! Select2 4.0.13 | https://github.com/select2/select2/blob/master/LICENSE.md */
-
-!function(){if(jQuery&&jQuery.fn&&jQuery.fn.select2&&jQuery.fn.select2.amd)var n=jQuery.fn.select2.amd;n.define("select2/i18n/zh-CN",[],function(){return{errorLoading:function(){return"无法载入结果。"},inputTooLong:function(n){return"请删除"+(n.input.length-n.maximum)+"个字符"},inputTooShort:function(n){return"请再输入至少"+(n.minimum-n.input.length)+"个字符"},loadingMore:function(){return"载入更多结果…"},maximumSelected:function(n){return"最多只能选择"+n.maximum+"个项目"},noResults:function(){return"未找到结果"},searching:function(){return"搜索中…"},removeAllItems:function(){return"删除所有项目"}}}),n.define,n.require}();
+version https://git-lfs.github.com/spec/v1
+oid sha256:dca610cb991e5b7c7a57f06fe7f2e5e039a875d3d39d3af5f69708400d551b75
+size 770

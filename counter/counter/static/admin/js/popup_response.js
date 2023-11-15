@@ -1,16 +1,3 @@
-/*global opener */
-'use strict';
-{
-    const initData = JSON.parse(document.getElementById('django-admin-popup-response-constants').dataset.popupResponse);
-    switch(initData.action) {
-    case 'change':
-        opener.dismissChangeRelatedObjectPopup(window, initData.value, initData.obj, initData.new_value);
-        break;
-    case 'delete':
-        opener.dismissDeleteRelatedObjectPopup(window, initData.value);
-        break;
-    default:
-        opener.dismissAddRelatedObjectPopup(window, initData.value, initData.obj);
-        break;
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4fec0d302c1e27f26eeac600e9cadce93c0e1a3e2c9da1490e5eda0b67c79a
+size 567

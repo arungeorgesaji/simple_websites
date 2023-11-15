@@ -1,26 +1,3 @@
-/* DASHBOARD */
-
-.dashboard .module table th {
-    width: 100%;
-}
-
-.dashboard .module table td {
-    white-space: nowrap;
-}
-
-.dashboard .module table td a {
-    display: block;
-    padding-right: .6em;
-}
-
-/* RECENT ACTIONS MODULE */
-
-.module ul.actionlist {
-    margin-left: 0;
-}
-
-ul.actionlist li {
-    list-style-type: none;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:45334794ebce1024bb44fd828c307467c2e280b9c211be591c7ac1c25c759b35
+size 406

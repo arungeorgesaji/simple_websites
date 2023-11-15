@@ -1,20 +1,3 @@
-@font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Bold-webfont.woff');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Regular-webfont.woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Light-webfont.woff');
-    font-weight: 300;
-    font-style: normal;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b1920dc72f83a3de02fef62c60500444ebbb82f6df366d2f4cfe1d3b966986
+size 443
